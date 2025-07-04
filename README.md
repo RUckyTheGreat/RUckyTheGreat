@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rucky! (new acc)
+# 👋 Hi, I'm Rucky!
 🕹️ Game Dev Enthusiast | 👨‍💻 Programmer | 🎨 Digital Artist | 🔧 Blender
  <br/>
 👨‍💻 Exploring the world of programming and game development!<br/>
@@ -12,7 +12,7 @@
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=RUckyTheGreat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Trophy](https://github-profile-trophy.vercel.app/?username=RUckyTheGreat&theme=radical)<br/>
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=RUckyTheGreat&layout=compact&theme=radical])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RUckyTheGreat&layout=compact&theme=radical)
 
 ---
 
