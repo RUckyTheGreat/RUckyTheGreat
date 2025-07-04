@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rucky!
+# 👋 Hi, I'm Rucky! (new acc)
 🕹️ Game Dev Enthusiast | 👨‍💻 Programmer | 🎨 Digital Artist | 🔧 Blender
  <br/>
 👨‍💻 Exploring the world of programming and game development!<br/>
