@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Rucky!
-🕹 Game Developer & Programmer | 🎨 Digital Design/Art | 🔥 Streamer<br/>
+🕹 Game Developer & Programmer | 🎨 Digital Art | 🔥 Video Editor | 💀 Blender <br/>
 👨‍💻 Exploring the world of programming and game development!<br/>
-🎓 Learning and growing every day in tech & game dev<br/>
+🎓 Learning and growing every day in tech & game dev / maybe<br/>
 
 ---
 
 ### **Skills & Tools**
 - **Languages:** Python, HTML, CSS, JavaScript, Luau
 - **Game Development:** Roblox Studio
-- **Tools:** Git, Visual Studio Code
+- **Tools:** Git, Visual Studio Code, Roblox Studio, Blender
 
 ---
 
