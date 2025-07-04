@@ -12,7 +12,7 @@
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=RUckyTheGreat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Trophy](https://github-profile-trophy.vercel.app/?username=RUckyTheGreat&theme=radical)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RUckyTheGreat&layout=compact&theme=radical)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=RUckyTheGreat&layout=compact&theme=radical](https://camo.githubusercontent.com/c25b0aa41cb426836f895d1c8add3ff389711096cf4e6890a71c6462748dad89/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5255636b795468654772656174266c61796f75743d636f6d70616374267468656d653d7261646963616c))
 
 ---
 
