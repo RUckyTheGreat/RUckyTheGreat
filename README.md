@@ -10,9 +10,14 @@
 
 ## 🏆 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=RUckyTheGreat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RUckyTheGreat&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUckyTheGreat&theme=radical&show_icons=true&hide_border=true&layout=compact" />
+</p>
+<br/>
+
+[![Rucky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RUckyTheGreat&bg_color=0d1117&color=ffffff&line=ff4f8b&point=fcd12a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=RUckyTheGreat&theme=radical)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RUckyTheGreat&layout=compact&theme=radical)
 
 ---
 
@@ -77,6 +82,7 @@
 ![GIF](https://media.tenor.com/piOupYyLux0AAAAi/anime-kitty.gif)
 
 ---
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=RUckyTheGreat&color=blue)
 
