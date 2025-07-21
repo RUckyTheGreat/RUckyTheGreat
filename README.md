@@ -56,8 +56,8 @@
 ## 🌟 Featured Projects
 
 - 🧟 [**PROPOGEN-CHAN**](https://github.com/RUckyTheGreat/Propogen-Chan): Full-stack Proposal Generator using **React + FastAPI**, featuring PDF export & image upload
-- 🔐 [**Safe Password Generator (Python)**](https://github.com/RUckyTheGreat/Password-generator-FreshPython): Desktop password generator with **Super Safe, Simple, Custom, and Shuffle modes**
-- 🎮 [**Roblox Combat System**](https://www.roblox.com/games/139088614640443/StoryTurnbaseGame): Advanced turn-based combat system with emotional AI, pathfinding, and synced animations (WIP)
+- 🔐 [**KyanaDev**](https://github.com/RUckyTheGreat/KyaNaDeApp): Ga tau ah project gagal. Pen buat spotify gitu lewat API dari yt
+- 🎮 [**MyBini**](https://github.com/RUckyTheGreat/MyKisahRucky): My bini website 
 
 ---
 
