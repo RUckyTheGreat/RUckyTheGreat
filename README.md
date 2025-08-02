@@ -16,15 +16,23 @@
 ---
 
 ## 🏆 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RUckyTheGreat&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUckyTheGreat&theme=radical&layout=compact&hide_border=true" />
-   <img src="https://streak-stats.demolab.com?user=RUckyTheGreat&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RUckyTheGreat&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUckyTheGreat&theme=radical&layout=compact&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
-[![Rucky's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RUckyTheGreat&bg_color=0d1117&color=ffffff&line=ff4f8b&point=fcd12a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RUckyTheGreat&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="170" />
+</p>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=RUckyTheGreat&theme=radical)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUckyTheGreat&bg_color=0d1117&color=ffffff&line=ff4f8b&point=fcd12a&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RUckyTheGreat&theme=radical&margin-w=10&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+</p>
 
 ---
 
