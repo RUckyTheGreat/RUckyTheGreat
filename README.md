@@ -1,26 +1,30 @@
 # 👋 Hi, I'm Rucky!
-🕹️ Game Dev Enthusiast | 👨‍💻 Programmer | 🎨 Digital Artist | 🔧 Blender Tinkerer  
-<br/>
-👨‍💻 Currently building web apps & Roblox games with custom mechanics<br/>
-🎓 Learning FastAPI, React, and full-stack project deployment<br/>
-🎯 Passionate about turning ideas into polished interactive experiences<br/>
-📚 Always learning — from password security to proposal generation engines!
 
-![me](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296260/extras/title.png?t=1747218917)
+🎩 Game Dev Enthusiast | 👨‍💻 Programmer | 🎨 Digital Artist | 🔧 Blender Tinkerer
 
+---
+
+### 🧠 About Me
+
+- 👨‍💻 Currently building web apps & Roblox games with custom mechanics
+- 🎓 Learning FastAPI, React, and full-stack deployment pipelines
+- 🎯 Passionate about turning ideas into polished, interactive experiences
+- 📚 Always learning — from password security to AI-driven project generators
+
+![Header Image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296260/extras/title.png?t=1747218917)
 
 ---
 
 ## 🏆 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RUckyTheGreat&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUckyTheGreat&theme=radical&show_icons=true&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUckyTheGreat&theme=radical&layout=compact&hide_border=true" />
+   <img src="https://streak-stats.demolab.com?user=RUckyTheGreat&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </p>
-<br/>
 
-[![Rucky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RUckyTheGreat&bg_color=0d1117&color=ffffff&line=ff4f8b&point=fcd12a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Trophy](https://github-profile-trophy.vercel.app/?username=RUckyTheGreat&theme=radical)<br/>
+[![Rucky's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RUckyTheGreat&bg_color=0d1117&color=ffffff&line=ff4f8b&point=fcd12a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=RUckyTheGreat&theme=radical)
 
 ---
 
@@ -37,49 +41,41 @@
 ![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="80" />
+</div>
 
-![me](https://images.steamusercontent.com/ugc/18020879235061954736/A37FFD23E52EFE068C0A0EEBE1C68D839A4D3D09/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
-
-
-
+![Steam Art](https://images.steamusercontent.com/ugc/18020879235061954736/A37FFD23E52EFE068C0A0EEBE1C68D839A4D3D09/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 ---
 
 ## 🏅 Certifications & Achievements
 
-- 🥇 **Jurnalis** (idk where the certification
+- 🥇 **Jurnalis** (Unknown issuing organization)
 - 🥈 [Story Telling Online Contest - Korean from UPI](https://drive.google.com/file/d/1aIYjaRizw5xI_F_JvDXlWU3w40tk1tmL/view?usp=drive_link)
-- 🧠 Representing creativity & curiosity with every build
+- 🧠 Always pushing boundaries with creativity & curiosity
 
 ---
 
-## 🌟 Featured Projects
+## ✨ Featured Projects
 
-- 🧟 [**PROPOGEN-CHAN**](https://github.com/RUckyTheGreat/Propogen-Chan): Full-stack Proposal Generator using **React + FastAPI**, featuring PDF export & image upload
-- 🔐 [**KyanaDev**](https://github.com/RUckyTheGreat/KyaNaDeApp): Ga tau ah project gagal. Pen buat spotify gitu lewat API dari yt
-- 🎮 [**MyBini**](https://github.com/RUckyTheGreat/MyKisahRucky): My bini website 
-
----
-
-## 🧠 Currently Exploring
-
-- 🤖 Scripting advanced AI/logic in **Roblox Studio** using Pathfinding & Emotional Systems
-- 🌐 Building secure, interactive full-stack apps (React + FastAPI)
-- 📊 Enhancing user experience with PDF generation, UI animations, and real-time feedback
-  
+- 🧟 [**PROPOGEN-CHAN**](https://github.com/RUckyTheGreat/Propogen-Chan): Full-stack proposal generator with React + FastAPI, PDF export, and image upload.
+- 🔐 [**KyanaDev**](https://github.com/RUckyTheGreat/KyaNaDeApp): Spotify-style project using YouTube APIs (archived).
+- 🎮 [**MyBini**](https://github.com/RUckyTheGreat/MyKisahRucky): A personal storytelling website.
 
 ---
 
-## 🔥 What I'm Working On
+## �� Currently Exploring
 
-- 🚀 Releasing full **proposal generator** app for public & school use
-- 🎮 Improving multiplayer emote sync system in Roblox
-- 🎯 Deepening skills in **backend logic**, API deployment, and UI polish
-- 
-![me](https://images.steamusercontent.com/ugc/12116828473796026703/5DCEF9C3AA8E1FD3542CCC4CA9713E82C70775E1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+- 🤖 Roblox scripting with pathfinding, AI, and emotional systems
+- ✨ UI animation and UX improvement for web apps
+- 📊 Real-time feedback, backend logic, and cloud deployment
+
+![Me](https://images.steamusercontent.com/ugc/12116828473796026703/5DCEF9C3AA8E1FD3542CCC4CA9713E82C70775E1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+
 ---
 
-## 🌐 Connect with Me
+## 🔗 Connect with Me
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@naptuneeel)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vyu_tune)
@@ -90,11 +86,10 @@
 
 ---
 
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=RUckyTheGreat&color=blue)
 
-## 🚀 Thanks for visiting!
+## ✨ Thanks for Visiting!
 
-![me](https://images.steamusercontent.com/ugc/14538439570979846740/546D8D8833264E1F2841943ECFE6262609E5234D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+![Me Again](https://images.steamusercontent.com/ugc/14538439570979846740/546D8D8833264E1F2841943ECFE6262609E5234D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
-_We are human, not horse. Human are evolving..._
+> _"We are human, not horse. Human are evolving..."_
