@@ -42,7 +42,7 @@
 ![Blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="80" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,py" height="80" />
 </div>
 
 ![Steam Art](https://images.steamusercontent.com/ugc/18020879235061954736/A37FFD23E52EFE068C0A0EEBE1C68D839A4D3D09/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
