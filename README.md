@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Rucky!
 
-🎩 Game Dev Enthusiast | 👨‍💻 Programmer | 🎨 Digital Artist | 🔧 Blender Tinkerer
+🎩 Game Dev Enthusiast | 👨‍💻 Programmer | 🎨 Digital Artist(Rarely) | 🔧 Blender Tinkerer (maybe)
 
 ---
 
 ### 🧠 About Me
 
-- 👨‍💻 Currently building web apps & Roblox games with custom mechanics
+- 👨‍💻 Currently building web apps & Unity
 - 🎓 Learning FastAPI, React, and full-stack deployment pipelines
 - 🎯 Passionate about turning ideas into polished, interactive experiences
-- 📚 Always learning — from password security to AI-driven project generators
 
 ![Header Image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296260/extras/title.png?t=1747218917)
 
@@ -57,21 +56,20 @@
 
 - 🥇 **Jurnalis** (Unknown issuing organization)
 - 🥈 [Story Telling Online Contest - Korean from UPI](https://drive.google.com/file/d/1aIYjaRizw5xI_F_JvDXlWU3w40tk1tmL/view?usp=drive_link)
-- 🧠 Always pushing boundaries with creativity & curiosity
 
 ---
 
 ## ✨ Featured Projects
 
-- 🧟 [**PROPOGEN-CHAN**](https://github.com/RUckyTheGreat/Propogen-Chan): Full-stack proposal generator with React + FastAPI, PDF export, and image upload.
-- 🔐 [**KyanaDev**](https://github.com/RUckyTheGreat/KyaNaDeApp): Spotify-style project using YouTube APIs (archived).
-- 🎮 [**MyBini**](https://github.com/RUckyTheGreat/MyKisahRucky): A personal storytelling website.
+- 🧟 [**Mimi Visual**](https://github.com/RUckyTheGreat/MimiVisualNovel): Visual novel website using react and vite js and easly custom the plot on json.
+- 🔐 [**My waifu**](https://github.com/RUckyTheGreat/My-waifu-simulator): Php api that connected to api waifu searching.
+- 🎮 [**jawa kalku**](https://github.com/RUckyTheGreat/jawaskripsikalku): A personal calculator website.
 
 ---
 
 ## �� Currently Exploring
 
-- 🤖 Roblox scripting with pathfinding, AI, and emotional systems
+- 🤖 Unity maybe oneday ajalah
 - ✨ UI animation and UX improvement for web apps
 - 📊 Real-time feedback, backend logic, and cloud deployment
 
